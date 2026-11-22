@@ -9,6 +9,7 @@ The system handles follow-up questions. It rewrites each one into a standalone q
 ![LangChain](https://img.shields.io/badge/LangChain-1.x-1C3C3C?logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-1.5-FF6F00)
 ![OpenAI](https://img.shields.io/badge/OpenAI-gpt--4o--mini-412991?logo=openai&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
 
@@ -24,6 +25,8 @@ The system handles follow-up questions. It rewrites each one into a standalone q
 - [How It Works](#how-it-works)
 - [Troubleshooting](#troubleshooting)
 - [Limitations & Roadmap](#limitations--roadmap)
+- [License](#license)
+- [Author](#author)
 
 ---
 
@@ -324,6 +327,14 @@ Pipeline settings in the code:
 
 ---
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+> The MIT License covers the source code in this repository only. The Christ University student handbook is not distributed here and remains the property of its owners.
+
+---
+
 ## Author
 
-Built by [@vathira-netizen](https://github.com/vathira-netizen).
+**Athira Venugopalan** · [GitHub @vathira-netizen](https://github.com/vathira-netizen)
